@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ForegroundWorkManager</string>
+    <string name="notification_channel_id">General</string>
+    <string name="cancel">Cancel</string>
+    <string name="notification_title">Running task</string>
+    <string name="notification_channel_name">General notification</string>
+</resources>
